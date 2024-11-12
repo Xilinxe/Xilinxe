@@ -10,4 +10,3 @@ git commit to Community Standars
 git Speech Report
 git Someone else Report 
 git Report Technical Problem
-git Hate Speech/Harrasment
